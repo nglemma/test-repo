@@ -1,1 +1,2 @@
-Adding new features
+
+Adding a new line
